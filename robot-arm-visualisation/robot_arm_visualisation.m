@@ -20,4 +20,5 @@ y = L2*sin(theta1 + theta2) + L1*sin(theta1);
 % Substituting these values reduces the formulas from four parameters to two parameters.
 % To visualize the possible positions of the end effector, you can create symbolic functions which depend on the two remaining parameters, θ1 and θ2. 
 % Substitute 4 for L1 and 2 for L2 in the expressions x and y.
-% Store the results as symbolic functions  fx(theta1,theta2) and fy(theta1,theta2), respectively.
+% Store the results as symbolic functions  fx(theta1,theta2) and
+% fy(theta1,theta2), respectively.
